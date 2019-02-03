@@ -1,0 +1,16 @@
+Lecture-Lecturer
+programming yakup genc 2
+discrete ibrahim sogukpinar 1
+proramming_lab mustafa tunali 1
+network ibrahim sogukpinar 1
+algorithms yakup genc 2
+
+Student-Lecture 
+100 kerem inan3
+105 oya demir2
+420 nese kaplan2
+
+Student-Day 
+100 kerem inan Tue, Mon, Fri
+105 oya demir Mon, Wed
+420 nese kaplan Thu, Tue
